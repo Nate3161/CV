@@ -1,0 +1,46 @@
+a:link {
+  color: #035168;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #035168;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F39189;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+body {
+  background-color: #6E7582
+}
+
+hr {
+  border-style: double;
+  border-color: black;
+  border-width: 1px;
+}
+img{
+  height: 75%;
+  width: 75%;
+}
+input{
+  background-color: #838996;
+  border-color: black;
+}
+textarea{
+  background-color: #838996;
+  border-color: black;
+  border-width: 2px;
+}
+h1{
+  color: #022834;
+}
+h2{
+  color: #022834;
+}
